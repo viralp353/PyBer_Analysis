@@ -120,6 +120,72 @@
      
      
         ![Fig7](https://user-images.githubusercontent.com/65969608/86487449-b700a800-bd23-11ea-9063-eb2559662f11.png)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+# Challenge:
+   
+   
+   For this Challenge-Two additional technical analyses and a written report. the following deliverables:
+   
+   
+
+   *  Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
+   
+   
+   *  Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
+      
+      
+      
+   *  Delivering Results: A written report.
+   
+   
+   
+   
+   
+   ## Resources:
+   
+   
+   * city_data.csv
+  
+   * ride_data.csv
+  
+   * jupyter notebook
+   
+   
+   
+ ## Summary for Challenge:
+ 
+ 
+ 
+(1)Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
+   
+   
+   
+   ![Screenshot (37)](https://user-images.githubusercontent.com/65969608/86488199-d3054900-bd25-11ea-9ec8-97538ad35bf9.png)
+   
+   
+   
+   
+(2)Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
+   
+   
+   
+   
+   ![TotalFarebyCityTYpe](https://user-images.githubusercontent.com/65969608/86488232-f7f9bc00-bd25-11ea-8781-d596b45e4206.png)
+
+ 
+ 
+ 
+ 
+  
+   
        
        
        
