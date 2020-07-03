@@ -191,7 +191,10 @@
 
 
 
-* 
+* For this Challenge,I didn't face any difficulties.As per my Opinion,We need look at data. Sometimes chnage in structure,Naming coflicts,Misspellings,  Redundancy/duplicates, Empty Records makes errors.That's why we need a handle a carefully when working code.For this challenge ,We need a handel carefully function like-groupby(),sum(),loc[start:End],datatime converter,resample(), FiveThirtyEight chart style,Month locator,Pivot table DatFrame etc..
+
+
+
 
  
  
