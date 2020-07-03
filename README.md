@@ -136,14 +136,14 @@
    
    
 
-   *  Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
+   *  (1)Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
    
    
-   *  Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
+   *  (2)Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
       
       
       
-   *  Delivering Results: A written report.
+   *  (3)Delivering Results.
    
    
    
@@ -179,6 +179,16 @@
    
    
    ![TotalFarebyCityTYpe](https://user-images.githubusercontent.com/65969608/86488232-f7f9bc00-bd25-11ea-8781-d596b45e4206.png)
+   
+   
+   
+   
+ (3)Delivering Results:
+ 
+ 
+   I got chllenge for this module.I wiil require to use everything I learned in this module.creating a summary DataFrame of the key metrics for the ride-sharing data by city type; creating a multiple-line graph that shows the total fares for each week by each city type; and submitting a written report on the results of the new analysis, challenges you encountered and overcame ![Screenshot (37)](https://user-images.githubusercontent.com/65969608/86488199-d3054900-bd25-11ea-9ec8-97538ad35bf9.png)
+
+This data analysis report shows a perfect overview of a summary of DataFrame of ride_sharing data by city and also included "Total Ride","Total Driver","Total Fare"."Averange fare per ride" and "Averange fare per Driver".
 
  
  
